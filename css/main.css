@@ -33,8 +33,9 @@ body {
 }
 
 html {
-	 background: #161415  no-repeat center center fixed;
-	/*background: linear-gradient(rgba(16, 21, 22, 0.5),rgba(36, 37, 37, 0.5)), url(../images/3.0-3.6-F-4-13-13.9.jpg) no-repeat center center fixed;*/
+	background: #161415;
+	/*background: #161415 url(../images/3.0-3.6-F-4-13-13.9.jpg) no-repeat center center fixed;*/
+	background: linear-gradient(rgba(16, 21, 22, 0.5),rgba(36, 37, 37, 0.5)), url(../images/3.0-3.6-F-4-13-13.9.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
 	background-size: cover !important;
