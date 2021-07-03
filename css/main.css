@@ -33,7 +33,7 @@ body {
 }
 
 html {
-	background: #161415 url(https://github.com/orion2013/fotoss-managua/blob/master/3.0-3.6-F-4-13-13.9.jpg) no-repeat center center fixed;
+	background: #161415 url(../images/graphics_renderin.png) no-repeat center center fixed;
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
 	background-size: cover !important;
